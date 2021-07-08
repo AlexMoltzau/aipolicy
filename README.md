@@ -1,4 +1,4 @@
-# National Artificial Intelligence Strategies
+# Artificial Intelligence Policy
 
 This repository was made for gathering, sharing and analysing different national strategies in the field of artificial intelligence (AI).
 
