@@ -11,6 +11,8 @@ A few such examples:
 It must be said that most of these sources often link to the various documents and do not have policy documents gathered in an easily accesible format to replicate their results. That is what I have found personally, and I may be wrong (please tell me if I am). It must be said that the Oxford AI Government Readiness Index has published a dataset on GitHub, although this is mainly oriented towards their coding of the data:
 https://github.com/OxfordInsights/AI-Readiness-Index
 
+These efforts are highly appreciated and makes it possible to navigate policies and efforts from different countries or regions.
+
 This repository is currently created as a personal project to begin exploring policy documents from different states or regions relating to the field of AI. 
 
 The current focus is exploring narratives (or lack thereof) pertaining to environmental policy, sustainability and the climate crisis within these various documents and regions.
