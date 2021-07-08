@@ -13,9 +13,13 @@ It must be said that most of these sources often link to the various documents a
 It must be said that the Oxford AI Government Readiness Index has published a dataset on GitHub, although this is mainly oriented towards their coding of the data:
 https://github.com/OxfordInsights/AI-Readiness-Index
 
-OECD.ai (2021) has, at the time of writing, displayed on their website: "...a live repository of over 600 AI policy initiatives from 60 countries, territories and the EU. Click on a country/territory, a policy instrument or a group targeted by the policy."
+OECD.ai (2021) has, at the time of writing, displayed on their website: *"...a live repository of over 600 AI policy initiatives from 60 countries, territories and the EU. Click on a country/territory, a policy instrument or a group targeted by the policy."* They have a page where they quantify the 205 national strategies, agendas and plans they have found so far:
+https://www.oecd.ai/dashboards/policy-instruments/National_strategies_agendas_and_plans
 
-These efforts are highly appreciated and makes it possible to navigate policies and efforts from different countries or regions.
+In addition to this they have a section for metrics & methods:
+https://www.oecd.ai/oecd-metrics-and-methods
+
+These efforts of the aforementioned organisations are highly appreciated and makes it possible to navigate policies and efforts from different countries or regions. One possibility for this project could be to get access to the documents and construct this as a seperate dataset.
 
 This repository is currently created as a personal project to begin exploring policy documents from different states or regions relating to the field of AI. 
 
