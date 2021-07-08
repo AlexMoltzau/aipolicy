@@ -4,7 +4,7 @@ This repository was made for gathering, sharing and analysing different national
 
 There are efforts to gather policy documents in the field of AI and sharing these.
 
-A few such examples:
+You can find a few such examples here:
 - OECD AI Policy Observatory: https://oecd.ai/
 - Oxford AI Government Readiness Index: https://www.oxfordinsights.com/government-ai-readiness-index-2020
 
