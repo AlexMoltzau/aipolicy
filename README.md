@@ -6,9 +6,10 @@ There are efforts to gather policy documents in the field of AI and sharing thes
 
 A few such examples:
 - OECD AI Policy Observatory: https://oecd.ai/
-- AI Government Readiness Index: https://www.oxfordinsights.com/government-ai-readiness-index-2020
+- Oxford AI Government Readiness Index: https://www.oxfordinsights.com/government-ai-readiness-index-2020
 
-It must be said that most of these sources often link to the various documents and do not have policy documents gathered in an easily accesible format to replicate the results. That is what I have found personally, and I may be wrong (please tell me if I am).
+It must be said that most of these sources often link to the various documents and do not have policy documents gathered in an easily accesible format to replicate their results. That is what I have found personally, and I may be wrong (please tell me if I am). It must be said that the Oxford AI Government Readiness Index has published a dataset on GitHub, although this is mainly oriented towards their coding of the data:
+https://github.com/OxfordInsights/AI-Readiness-Index
 
 This repository is currently created as a personal project to begin exploring policy documents from different states or regions relating to the field of AI. 
 
