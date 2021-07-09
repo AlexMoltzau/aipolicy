@@ -1,6 +1,8 @@
 # Artificial Intelligence Policy
 
-This repository was made for gathering, sharing and analysing different national strategies in the field of artificial intelligence (AI).
+This repository was made for gathering, sharing and analysing different ai policies.
+
+One initial approach is gathering and analysing national strategies in the field of artificial intelligence (AI).
 
 There are efforts to gather policy documents in the field of AI and sharing these.
 
